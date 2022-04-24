@@ -5,7 +5,7 @@
   Based on Arduino Library Example
 */
 #include <Wire.h>
-#include "MAX30105.h"
+#include <MAX30105.h>
 
 MAX30105 particleSensor;
 
